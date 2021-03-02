@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://shakkirmln:Resume2021@linkdev.yn1rs.mongodb.net/linkdevs?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "47e850881cfd31d4d62e",
+  "githubSecret": "a77684746ec911280de1a6f9484c844cf4cd67dc"
+}
